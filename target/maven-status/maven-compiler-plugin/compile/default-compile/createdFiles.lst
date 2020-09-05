@@ -1,0 +1,6 @@
+com\mycompany\visitorp\ElementConcretMoto.class
+com\mycompany\visitorp\IVisitor.class
+com\mycompany\visitorp\ElementConcretAuto.class
+com\mycompany\visitorp\IElemento.class
+com\mycompany\visitorp\VisitorConcretTocarClaxon.class
+com\mycompany\visitorp\pruebaVisitor.class
